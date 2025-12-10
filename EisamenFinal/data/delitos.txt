@@ -1,0 +1,4 @@
+Homicidio;10;40
+Hurto;1;8
+Tráfico de estupefacientes;4;20
+Extorsión;5;20

@@ -1,0 +1,2 @@
+12;juan camilo garces;Homicidio;12;12;1;1
+11;juan cq;Hurto;8;8;1;1
