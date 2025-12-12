@@ -17,6 +17,7 @@ Desde la carpeta raíz del proyecto:
 ```bash
 javac -d bin -sourcepath src src/domain/*.java src/service/*.java
 java -cp bin service.SistemaCarcel
+java -cp bin service.SistemaCarcelGUIExtension
 ```
 
 > Asegúrate de que la carpeta `data/` exista en la misma ruta desde donde ejecutas el programa.
